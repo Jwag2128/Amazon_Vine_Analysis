@@ -6,7 +6,7 @@
 •	Number of 5 star rating reviews, both paid and unpaid
 •	Percentage of 5 star ratings to both total reviews and total 5 star reviews for both paid and unpaid.
 ### To get these numbers I created the following dataframes
-###Total Votes – greater than or equal to 20
+### Total Votes – greater than or equal to 20
 
 ![total_votes_dataframe](https://user-images.githubusercontent.com/106286533/191333542-416f8424-483f-4fa7-9eab-a797d3309432.png)
 
